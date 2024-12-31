@@ -1,0 +1,4 @@
+Há dois acessos: Existe um acesso pela "paginalogin.php" onde o usuário é admin e a senha é "123456", ou você pode
+acessar diretamente por "conecta_blog.php" que irá conectar com o banco de dados e irá redirecionar para "blog.php",
+que é a página principal deste projeto. Caso tente acessar diretamente por "blog.php" sem passar por "conecta_blog.php"
+será retornado erro.
